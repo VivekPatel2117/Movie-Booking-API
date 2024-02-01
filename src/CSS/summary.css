@@ -45,3 +45,10 @@
     padding: 1%;
     background-color: #92cab196;
 }
+@media (max-width: 600px) {
+    .summary{
+       display: flex;
+       justify-content: center;
+       flex-wrap: wrap; 
+    }
+}
